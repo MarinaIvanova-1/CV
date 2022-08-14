@@ -1,12 +1,10 @@
 ## Marina Ivanova, PhD
 
-I am currently a student at Makers academy learning full-stack software development. I have a background in research having spent the last ten years 
-doing experiments in the lab and contributing to scientific developments that make the world a better place. 
+I am currently a student at Makers Academy learning full-stack software development. I have a background in scientific research, having spent the last 10 years doing experiments in the lab and contributing to developments that make the world a better place. 
 
-I decided recently it was time to take up a new career challenge and software development seemed like a perfect choice. This career allows me to apply 
-my analytical mindset and excellent problem solving skills in a new environment. 
+I decided recently it was time to take up a new career challenge and software development seemed like the perfect choice. This career will allow me to apply my analytical mindset and excellent problem-solving skills in a new environment. 
 
-I am a dynamic, ambitious and friendly person. I work equally well collaboratively or individually. I am  looking for a role in which I can develop myself as a Full-stack software engineer. 
+I am a dynamic, ambitious and friendly person and I work equally well collaboratively or individually. I am looking for a role in which I can develop myself as a Full-stack software engineer. 
 
 ## Projects - to be updated
 
@@ -20,36 +18,29 @@ I am a dynamic, ambitious and friendly person. I work equally well collaborative
 
 Excellent communicator
 
-During my career in academia I excelled at communicating my work to a wide variety of audiences. I have published seven research papers in 
-leading scientific journals, I have presented results of my research at an international meeting in front of 200 scientists, I have 
+During my career in academia, I excelled at communicating my work to a wide variety of audiences. I have published seven research papers in 
+leading scientific journals and have presented results of my research at an international meeting in front of 200 scientists. I have 
 routinely prepared written and oral reports summarising my findings. I have experience communicating complicated scientific concepts 
-to non-scientists and I am comfortable using whatever communication tool is necessary to convey my point.  
+to non-scientists, and I am comfortable using whatever communication tool is necessary to convey my point.  
 
-Problem solving
+Problem-solving
 
-I pride myself on my ability to problem solve. I believe my experience tackling big scientific questions and my ability to break 
-down complicated problems into smaller more achievable tasks will help me to become a great software developer.
+I pride myself on my ability to problem-solve. I believe my experience tackling big scientific questions and my ability to break 
+down complicated problems into smaller, more achievable tasks will help me to become a great software developer.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2022 to November 2022)
+16-week full-time bootcamp where students learn the best practises of software development. 
+I was awarded a scholarship from the Department of Education tht covered 100% of tuition fees.
 
-#### Your University / College (start_date to end_date)
+#### PhD, University College London (September 2012 to November 2016)
+Specialisation: Cancer biology, biochemistry and structural biology
+I won a scholarship from Cancer Research UK and Oversees Research Scholarship from UCL to cover tuition fees and living expenses.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Specialist (equivalent to BSc followed by MSc), Lomonosov Moscow State University, Russia (September 2007 to June 2012)
+Diploma with Honours (GPA 4.8 out of 5)
+Specialisation: Biochemistry
 
 ## Work Experience
 
@@ -57,8 +48,8 @@ That in some arguable way make you a better software developer or well-rounded p
 Postdoctoral Researcher
 
 My project focused on studying 
- - how DNA is packed inside the cells 
- - how DNA can be precisely duplicated prior to the cell division
+ - how DNA is packed inside cells 
+ - how DNA can be precisely duplicated prior to cell division
 
 **Birkbeck collge** (June 2017 to September 2020)  
 Postdoctoral researcher
@@ -68,7 +59,7 @@ My project focused on studying how human immune T-cells kill virally infected or
 **the Francis Crick Institute** (September 2012 to May 2017)  
 PhD student
 
-My project focused on studying cell polarity - assymetry in cellular structure or biochemical composition between two poles of the cell. 
+My project focused on studying cell polarity - why some cells are different on one side than the other.
 
 ## Hobbies
 
