@@ -2,7 +2,7 @@
 
 LINKS - to be filled in
 
-I am a junior software engineer recently graduated from Makers Academy. I have a background in scientific research, having spent the last 10 years doing experiments in the lab and contributing to developments that make the world a better place. 
+I am a junior software engineer recently graduated from Makers Academy. I have a background in scientific research, having spent the last 10 years doing experiments in the lab and contributing to developments that make the world a better place. In the past I have worked on investigating how cancer develops, how immune cells kill infected cells, 
 
 I decided recently it was time to take up a new career challenge and software development seemed like the perfect choice. This career will allow me to apply my analytical mindset and excellent problem-solving skills in a new environment. I am a dynamic, ambitious and friendly person and I work equally well collaboratively or individually. I am looking for a role in which I can develop myself as a Full-stack software engineer. 
 
@@ -19,7 +19,7 @@ I decided recently it was time to take up a new career challenge and software de
 #### Excellent communicator
 
 During my career in academia, I excelled at communicating my work to a wide variety of audiences. I have published seven research papers in 
-leading scientific journals and have presented results of my research at an international meeting in front of 200 scientists. I have 
+leading scientific journals such as Nature and Scientific Advances (for full list of publications see <a href='https://scholar.google.com/citations?user=AU4kCk8AAAAJ&hl=en'> Google Scholar profile </a> ). I have presented results of my research at an international meeting in front of 200 scientists. I have 
 routinely prepared written and oral reports summarising my findings. I have experience communicating complicated scientific concepts 
 to non-scientists, and I am comfortable using whatever communication tool is necessary to convey my point. These skills have helped me a lot to make pairing and team projects as productive and as enjoyable as possible. 
 
