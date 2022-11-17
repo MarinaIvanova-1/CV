@@ -4,17 +4,15 @@ LINKS - to be filled in
 
 I am a junior software engineer recently graduated from Makers Academy. I have a background in scientific research, having spent the last 10 years doing experiments in the lab and contributing to developments that make the world a better place. 
 
-I decided recently it was time to take up a new career challenge and software development seemed like the perfect choice. This career will allow me to apply my analytical mindset and excellent problem-solving skills in a new environment. 
-
-I am a dynamic, ambitious and friendly person and I work equally well collaboratively or individually. I am looking for a role in which I can develop myself as a Full-stack software engineer. 
+I decided recently it was time to take up a new career challenge and software development seemed like the perfect choice. This career will allow me to apply my analytical mindset and excellent problem-solving skills in a new environment. I am a dynamic, ambitious and friendly person and I work equally well collaboratively or individually. I am looking for a role in which I can develop myself as a Full-stack software engineer. 
 
 ## Projects - to be updated
 
 | Name                         | Description       | Tech/tools         |
 | ---------------------------- | ----------------- | ------------------ |
 | **Less waste more taste**    | A webapp to do x. | React, Node.js,etc |
-| **Something else worked on** | A webapp to do y. | Ruby               |
-
+| **Chitter**                  | A webapp to do y. | xxx                |
+| **MakerBnb**                 | A webapp to do y. | xxx                |
 
 ## Skills
 
@@ -30,7 +28,11 @@ to non-scientists, and I am comfortable using whatever communication tool is nec
 I pride myself on my ability to problem-solve. I believe my experience tackling big scientific questions and my ability to break 
 down complicated problems into smaller, more achievable tasks will help me to become a great software developer.
 
-#### Something else to add here
+#### Learning and teaching
+
+I am passionate about constantly learning and developing myself, did XYZ learning...
+Mentor at Makers
+Supervised a PhD student
 
 ## Education
 
