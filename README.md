@@ -30,9 +30,7 @@ down complicated problems into smaller, more achievable tasks will help me to be
 
 #### Learning and teaching
 
-I am passionate about constantly learning and developing myself, did XYZ learning...
-Mentor at Makers
-Supervised a PhD student
+I am passionate about constantly learning and developing myself, did XYZ learning.. Mentor at Makers, supervised a PhD student
 
 ## Education
 
